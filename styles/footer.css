@@ -1,0 +1,12 @@
+.rodapé{
+    background-color: var(--branco-principal);
+    padding: 1em 1.5em;
+}
+
+.rodapé__titulo {
+    font-weight: 500;
+}
+.rodapé__texto {
+    font-weight: 600;
+    margin-top: 0.25em;
+}
