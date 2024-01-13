@@ -1,6 +1,7 @@
 .rodapé{
     background-color: var(--branco-principal);
     padding: 1em 1.5em;
+    border-top: 1px solid var(--cinza);
 }
 
 .rodapé__titulo {
