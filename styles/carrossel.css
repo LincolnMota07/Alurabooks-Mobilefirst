@@ -101,6 +101,16 @@
     margin: 2em auto;
 }
 
+.descrição__imagem:hover {
+
+    transform: scale(1.1);
+}
+
+.botoes__ancora:hover {
+
+    opacity: 0.8;
+}
+
 }
 
 @media screen and (min-width: 1728px) {

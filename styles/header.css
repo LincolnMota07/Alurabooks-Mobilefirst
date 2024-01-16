@@ -141,6 +141,7 @@
     .opções__botao:checked~ .opções__rotulo >.opções__item {
         background: var(--azul-degrade);
         color: var(--branco-principal);
+        text-decoration: none;
     }
 
     .opções__item {
@@ -156,6 +157,24 @@
         text-decoration: none;
     }
 
+    .opções__link:hover {
+        font-weight: 500; /* Ou outros estilos desejados */
+        text-decoration: underline; /* Ou outros estilos desejados */
+    }
+    .opções__link-imagem:hover {
+        font-weight: 500; /* Ou outros estilos desejados */
+        text-decoration: underline; /* Ou outros estilos desejados */
+    }
+
+    .cabecalho__imagem:hover {
+
+        transform: scale(1.2);
+    }
+
+    .opções__item:hover {
+        font-weight: 500;
+        text-decoration: underline;
+    }
 
     
 }
