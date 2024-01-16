@@ -1,5 +1,5 @@
 
-<h1> <img src =/assets/img/logo>  Alurabooks-Mobilefirst </h1>
+<h1> <img src ="/assets/img/Logo.svg" alt="Logo AluraBooks">  Alurabooks </h1>
 
 <img src="https://img.shields.io/github/license/LincolnMota07/Alurabooks-Mobilefirst">
 
@@ -7,7 +7,8 @@
 <p>Projeto Alurabooks que simula um e-comerce de livros técnicos relacionados a tecnlogia, neste projeto foi utilizado o conceito de mobile first em seu desenvolvimento.</p>
 
 ## Status do Projeto
-<img src="https://img.shields.io/badge/STATUS-EM_DESENVOLVIMENTO-green">
+![Static Badge](https://img.shields.io/badge/PROJETO-CONCLU%C3%8DDO-blue)
+
 
 
 ## 🚀 Tecnologias
