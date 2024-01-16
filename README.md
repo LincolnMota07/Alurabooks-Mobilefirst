@@ -1,5 +1,5 @@
 
-<h1>  Alurabooks-Mobilefirst </h1>
+<h1> <img src =/assets/img/logo>  Alurabooks-Mobilefirst </h1>
 
 <img src="https://img.shields.io/github/license/LincolnMota07/Alurabooks-Mobilefirst">
 
@@ -18,7 +18,7 @@
 </div>
 
 ## 🔗 Site do Projeto
-<a href="https://portifolio-lincoln.vercel.app" target="_blank">Portifólio</a>
+<a href="https://alurabooks-mobilefirst-eta.vercel.app/" target="_blank">AluraBooks</a>
 
 
 ## 🫂 Time
