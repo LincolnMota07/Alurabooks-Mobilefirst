@@ -111,6 +111,11 @@
     opacity: 0.8;
 }
 
+.swiper-slide__imagem:hover{
+    transform: scale(1.05);
+    z-index: 2;
+}
+
 }
 
 @media screen and (min-width: 1728px) {
